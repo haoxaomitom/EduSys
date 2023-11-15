@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\StudyClollege\SOF2041_DuAnMau_(UDPM-Java)\EduSysTest\ProjectDuAnMau.jar</jar>
+  <outfile>D:\StudyClollege\SOF2041_DuAnMau_(UDPM-Java)\EduSysTest\setup.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\StudyClollege\SOF2041_DuAnMau_(UDPM-Java)\EduSysTest\favicon.ico</icon>
+  <classPath>
+    <mainClass>Ui.DangNhapJFrame</mainClass>
+    <cp>lib/mssql-jdbc-12.2.0.jre8.jar</cp>
+  </classPath>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
